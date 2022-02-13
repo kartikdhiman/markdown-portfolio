@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Visit my [website](kartikdhiman.com) or [github profile](github.com/kartikdhiman)
